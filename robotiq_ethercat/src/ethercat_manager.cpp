@@ -8,7 +8,7 @@
 #include <boost/interprocess/sync/scoped_lock.hpp>
 
 #include <soem/ethercattype.h>
-#include <oshw/linux/nicdrv.h>
+#include <nicdrv.h>
 #include <soem/ethercatbase.h>
 #include <soem/ethercatmain.h>
 #include <soem/ethercatdc.h>
